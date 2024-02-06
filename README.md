@@ -1,4 +1,6 @@
-### Hi there 👋
+👋 Hi there, I'm Heet, an undergraduate student studying CS at Georgia Tech
+📫 Here's how you can reach me: EMAIL - hjain76@gatech.edu, INSTAGRAM - @heetmeister
+
 
 <!--
 **heet1jain/heet1jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
