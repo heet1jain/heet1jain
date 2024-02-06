@@ -1,4 +1,4 @@
-👋 Hi there, I'm Heet, an undergraduate student studying CS at Georgia Tech
+👋 Hi there, I'm Heet, an undergraduate student studying CS at Georgia Tech\
 📫 Here's how you can reach me: EMAIL - hjain76@gatech.edu, INSTAGRAM - @heetmeister
 
 
